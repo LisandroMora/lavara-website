@@ -1,0 +1,296 @@
+{
+    "nav": {
+        "home": "INICIO",
+        "winners": "GANADORES",
+        "news": "NOVEDADES",
+        "inscriptions": "INSCRIPCIONES",
+        "students": "ESTUDIANTES"
+    },
+    "home": {
+        "banner": {
+            "title": {
+                "first": "EL PREMIO",
+                "second": "A LA CREATIVIDAD",
+                "third": "DE LA REGIÓN",
+                "fourth": "CENTROAMÉRICA Y EL CARIBE"
+            },
+            "label": {
+                "first": "Inscripciones abiertas",
+                "second": "hasta el 10 de Octubre 2024"
+            }
+        },
+        "infoSection": {
+            "title": "LA VARA ES",
+            "desciption": {
+                "first": "Los premios creados en 2021 por el comité creativo de ADECC (Asociación Dominicana de Empresas de Comunicación Comercial),",
+                "second": "tienen como objetivo fortalecer y elevar la creatividad en la región.",
+                "third": "Los premios reconocen todas las piezas creativas en Centroamérica y el Caribe que se distinguen por su innovación y originalidad en favor de las empresas y marcas."
+            }
+        },
+        "winnersSection": {
+            "title": {
+                "first": "GANA",
+                "second": "DORES"
+            }
+        },
+        "awardsSections": {
+            "title": "LOS PREMIOS",
+            "cases": "Casos"
+        },
+        "marketSection": {
+            "title": "Mercados"
+        },
+        "sponsorsSection": {
+            "title": "PATROCINADORES"
+        },
+        "varaTalks": {
+            "title": "LA VARA HABLA",
+            "date": "26 DE NOVIEMBRE"
+        }
+    },
+    "judgesSection": {
+        "title": "JURADOS"
+    },
+    "inscriptions": {
+        "banner": {
+            "title": "INSCRIPCIONES",
+            "closed": "cierran en",
+            "register": "REGISTRARTE",
+            "cost": "COSTOS"
+        },
+        "fases": {
+            "inscriptions": "INSCRIPCIONES",
+            "shortlist": "SHORTLIST",
+            "october": "OCTUBRE",
+            "finalists": "FINALISTAS"
+        },
+        "info": {
+            "title": "INSCRIPCIONES",
+            "list": {
+                "first": "El plazo de inscripción comienza el 1 de julio y finaliza el 10 de octubre, 2024 a las 23:59 PM.",
+                "bold": "No se aceptarán inscripciones después de esta fecha.",
+                "second": "Los participantes deben subir cada pieza a la categoría correspondiente.",
+                "third": "Las piezas inscritas deben estar autorizadas por la marca o cliente.",
+                "fourth": "Cada pieza debe estar en formato digital (imagen, video, audio) y cumplir con los requisitos de tamaño y formato especificados en la página de inscripción.",
+                "fifth": "Las piezas inscritas deben ser originales. (Los participantes serán responsables de cualquier reclamo de terceros.)"
+            }
+        },
+        "participants": {
+            "title": "¿QUIÉNES PARTICIPAN?",
+            "text": {
+                "first": "Toda empresa de comunicación comercial que entienda que su trabajo merece ser reconocido.",
+                "second": "Agencias de publicidad / Anunciantes / Medios de Comunicación / Estudios Creativos / Diseño / Productoras / Centrales de Medios / Empresas de Comunicación / Post-producción / Agencias digitales / Empresas de Relaciones Públicas / Empresas de Promoción BTL"
+            }
+        },
+        "categories": {
+            "title": "CATEGORÍAS",
+            "description": "DESCRIPCIONES Y SUB-CATEGORÍAS",
+            "items": {
+                "2": {
+                    "name": "Impresos",
+                    "info": "Premia las mejores ideas ejecutadas en periódicos, revistas e insertos sobre algún producto o servicio. Se reconocen ideas que generan impacto por su ingenio, su valor visual y redacción efectiva."
+                },
+                "3": {
+                    "name": "Exteriores",
+                    "info": "Celebra la creatividad \"out of home\" (fuera del hogar), en espacios públicos, para comunicar un mensaje de marca y/o crear experiencias con la audiencia."
+                },
+                "5": {
+                    "name": "Experiencia de Marca y Activaciones",
+                    "info": "Reconoce ideas publicitarias y de promoción que involucran displays, construcciones especiales, publicidad en vivo, eventos, experiencias interactivas, y activaciones que enganchan al público."
+                },
+                "6": {
+                    "name": "TV Contenidos Videos",
+                    "info": "Reconoce la excelencia creativa en la producción de contenido audiovisual en movimiento, incluyendo anuncios para TV, cine, plataformas en línea y experiencias fuera del hogar."
+                },
+                "7": {
+                    "name": "Radio y Plataformas de Audio",
+                    "info": "Celebra la creatividad sonora en medios convencionales y digitales, incluyendo jingles, arreglos y efectos especiales. Se premia la estrategia y campañas exitosas en radio y plataformas de audio."
+                },
+                "8": {
+                    "name": "Medios",
+                    "info": "Reconoce el uso ingenioso y creativo de los medios, considerando contexto y estrategia. Incluye categorías como uso de TV, audio, impresos, exteriores, eventos, plataformas digitales y más."
+                },
+                "9": {
+                    "name": "Relaciones Públicas",
+                    "info": "Reconoce ideas que construyen confianza y reputación a través de tácticas en medios ganados o canales propios. Incluye estrategias de relaciones públicas, manejo de crisis y responsabilidad social."
+                },
+                "10": {
+                    "name": "Data",
+                    "info": "Celebra campañas impulsadas por el uso creativo, interpretación y aplicación de datos. Deben demostrar claramente cómo la ejecución/campaña fue mejorada o impulsada por el uso creativo, la interpretación, el análisis o la aplicación de datos."
+                },
+                "11": {
+                    "name": "Digital",
+                    "info": "Celebra la creatividad en línea que conecta a la audiencia a través de recursos web y redes sociales, incluyendo sitios web, banners, redes sociales, influencers y más."
+                },
+                "13": {
+                    "name": "Innovación",
+                    "info": "Premia ideas innovadoras que resuelven problemas o aportan valor a marcas e industrias a través de tecnología o productos creativos."
+                },
+                "14": {
+                    "name": "Campañas 360",
+                    "info": "Reconoce campañas exitosas que llevan el mensaje de una marca a través de múltiples plataformas en línea y fuera de línea."
+                },
+                "15": {
+                    "name": "Craft",
+                    "info": "Reconoce ejecuciones que resaltan por su nivel de detalle y experiencia en áreas como dirección, fotografía, diseño, ilustración, copywriting, música y efectos de sonido."
+                },
+                "16": {
+                    "name": "Salud & Pharma",
+                    "info": "Reconoce las mejores ideas y acciones en el ámbito de la salud, la farmacia y el bienestar."
+                }
+            }
+        },
+        "accordions": {
+            "conditions": {
+                "title": "CONDICIONES",
+                "content": [
+                    "Podrán participar todas las empresas de comunicación comercial registradas y con operaciones en Centroamérica y el Caribe, así como personas individuales residentes en estas regiones, creadoras de piezas o campañas de publicidad.",
+                    "Las piezas inscritas deben estar autorizadas por la marca o cliente.",
+                    "En el caso de trabajos inscritos por personas individuales, las piezas deben contar con autorización escrita de la agencia de publicidad responsable o del anunciante. La agencia de publicidad tendrá prioridad sobre el publicista independiente en caso de inscripciones duplicadas.",
+                    "La información suministrada por el participante debe ser real y honesta; cualquier falsedad provocará su automática descalificación.",
+                    "El material concursante debe haber sido publicado y emitido antes de la iniciación del festival.",
+                    "Todo material que esté en un idioma distinto al español, debe ser traducido o contar con subtítulos en español.",
+                    {
+                        "subContent": [
+                            "Los comerciales de Televisión-Cine tendrán una duración máxima de 5 minutos.",
+                            "El peso máximo permitido es de 4GB.",
+                            "Recomendamos comprimir los documentos antes de cargarlos para agilizar el proceso de aplicación.",
+                            "Formato admitido para imágenes: JPG. JPEG. PNG. GIF.TIFF.TIF.",
+                            "Formato admitido para video: mp4.",
+                            "Formato admitido para documentos: PDF, XML, DOC, xlsx, xls.",
+                            "Formato admitido para audio: Mp3."
+                        ]
+                    },
+                    "Todas las inscripciones quedarán en el archivo del festival para sus fines y objetivos.",
+                    "ADECC podrá utilizar el material con fines de promoción y difusión; presentaciones en instituciones educativas, grupos empresariales, profesionales de la comunicación y público en general; y publicará las premiaciones en medios públicos y privados.",
+                    "Los participantes se comprometen a utilizar en su promoción o publicidad la correcta denominación del premio recibido.",
+                    "Al inscribirse, el participante autoriza el uso de marcas, promociones, productos, protagonistas, personajes animados y reproducciones fotográficas.",
+                    "El participante excluye a ADECC y Premios La Vara de cualquier acción legal o reclamo que surja de su promoción, exhibición y/o uso, asumiendo cualquier responsabilidad emergente.",
+                    "Si la organización requiere de constancia de derechos de autor o de publicación se solicitará a las partes involucradas para continuar con su proceso de jurado.",
+                    "El jurado calificador se abstiene de seleccionar ganadores si no lo consideran.",
+                    "El participante declara conocer y aceptar las condiciones y requerimientos del reglamento de Premios La Vara.",
+                    "El material inscrito debe cumplir con las normas y los códigos de ética determinados en este documento por los organismos calificadores de la actividad.",
+                    "ADECC se reserva el derecho de admisión y la aplicación de los códigos de ética establecidos.",
+                    "Si existiera alguna denuncia fundamentada de terceros referente a cualquier inscripción, ADECC exigirá al responsable el descargo correspondiente. Hasta que se aclare la situación, su participación o premiación quedará en suspenso.",
+                    "La sola inscripción en los Premios LA VARA implica la aceptación de este reglamento y la autoridad de los organizadores, para validar el cumplimiento del mismo.",
+                    "Nota: El material inscrito que no haya sido publicado, comúnmente denominado 'fantasma' o 'trucho', será automáticamente descalificado junto con la totalidad de las inscripciones del responsable, sin derecho a reintegro económico."
+                ]
+            },
+            "jurors": {
+                "title": "JURADOS",
+                "content": [
+                    "El jurado estará compuesto por líderes de la industria internacional con gran criterio y trayectoria.",
+                    "Estará integrado por prestigiosos profesionales creativos internacionales activos y exitosos que trabajen en agencias de publicidad.",
+                    "Participarán jurados de redes y agencias independientes, con un perfil alto en la industria y reconocidos por sus premios, principalmente Leones de Cannes.",
+                    "El jurado será propuesto y seleccionado por la Directiva de ADECC y el comité creativo.",
+                    "No se invitarán profesionales para participar como jurados, con residencia permanente en los países incluidos en el premio (Centroamérica y el Caribe).",
+                    "El jurado podrá subdividir o integrar categorías según el número de participantes.",
+                    "El jurado puede hacer sugerencias y recomendaciones a los organizadores para aportar a la industria publicitaria y su creatividad."
+                ]
+            },
+            "credits": {
+                "title": "CRÉDITOS",
+                "content": [
+                    "Para fines pertinentes, todos los nombres de agencias, clientes e individuos deben citarse correctamente en el formulario de crédito de acuerdo con la política de la empresa y tal como deben aparecer en cualquier comunicación de los Premios La Vara y en todas las formas de publicidad.",
+                    "Se deben citar los siguientes:",
+                    {
+                        "subContent": [
+                            "Agencia líder: La agencia/empresa responsable de los componentes clave del esfuerzo (creatividad, ejecución).",
+                            "Cliente: La empresa cliente. Cuando sea relevante, el nombre del cliente debe ser la empresa cliente global, que puede ser diferente de la marca.",
+                            "Agencia líder adicional (si corresponde, máximo 1): Agencia que contribuyó integralmente al éxito del esfuerzo.",
+                            "Cliente adicional (si corresponde, máximo 1): Un segundo cliente en el esfuerzo.",
+                            "Compañías contribuyentes (si corresponde, máximo 4): Empresas que contribuyeron significativamente al éxito del esfuerzo.",
+                            "Créditos individuales: Individuos primarios y secundarios que contribuyeron al caso. Acredite a todos los miembros principales del cliente clave y del equipo de la agencia, asegurándose de deletrear correctamente y confirmar los cargos de cada uno."
+                        ]
+                    },
+                    "Debe acreditar solo a un individuo por línea y todos deben ser miembros del equipo (actuales o pasados) de las empresas acreditadas. No debe acreditar empresas adicionales en esta sección."
+                ]
+            }
+        }
+    },
+    "students": {
+        "banner": {
+            "title": "ESTUDIANTES INSCRIPCIONES",
+            "closed": "cierran en",
+            "register": "REGISTRARTE",
+            "brief": "BRIEF"
+        },
+        "fases": {
+            "inscriptions": "INSCRIPCIONES",
+            "shortlist": "SHORTLIST",
+            "october": "OCTUBRE",
+            "finalists": "FINALISTAS"
+        },
+        "info": {
+            "title": "SOBRE LA CATEGORÍA",
+            "text": "La categoría de Estudiantes premia las propuestas innovadoras y originales elaboradas por jóvenes talentos en el campo de la creatividad. Esta categoría está abierta a estudiantes residentes en la República Dominicana, con edades comprendidas entre 18 y 25 años, quienes pueden participar de manera individual o en grupos de hasta 4 personas. Los participantes deberán presentar una propuesta que responda directamente al brief de estudiantes del año correspondiente."
+        },
+        "winners": {
+            "title": "LOS GANADORES",
+            "text": "Se premiarán al primer, segundo y tercer lugar. La propuesta ganadora del primer lugar recibirá un reconocimiento especial en una plataforma creativa internacional y la oportunidad de impactar en una entidad pública local."
+        },
+        "expenses": {
+            "title": "COSTO",
+            "dates": {
+                "since": "Desde el",
+                "sinceBold": "1 de julio",
+                "until": "hasta el",
+                "untilBold": "10 de octubre"
+            }
+        },
+        "accordions": {
+            "participantsRequirements": {
+                "title": "REQUISITOS PARA PARTICIPANTES",
+                "content": [
+                    "Se puede participar de manera individual o hasta grupos de 4.",
+                    "Costo de inscripción de propuesta es de USD$50.",
+                    "Solo se puede participar con una (1) inscripción por concursante o grupo.",
+                    "Solo podrán participar personas de 18 a 25 años (inclusive), que residan en República Dominicana.",
+                    "Ser estudiante o graduado de Comunicación, Publicidad y carreras afines.",
+                    "NO es requisito, ser empleado de una compañía o agencia publicitaria para participar."
+                ]
+            },
+            "proposalRequirements": {
+                "title": "REQUISITOS DE PROPUESTA",
+                "content": [
+                    "Inscripción en la página del Festival: <a href='https://www.adecc.com.do/premioslavara' target='_blank' rel='noreferrer'>Inscripción.</a>",
+                    "Fecha límite de entrega: 10 de octubre de 2024.",
+                    "Incluir el mensaje 'SD, TE QUIERO LIMPIO'.",
+                    "Video obligatorio explicando la campaña, desde el insight, la 'Big Idea' y la conceptualización de la misma (máximo 3 minutos, formato .mp4).",
+                    "Opcional:",
+                    {
+                        "optional": [
+                            "Arte/Imágenes: hasta 3.",
+                            "Audio: 1 audio (máximo 2 minutos, formato .mp3)."
+                        ]
+                    }
+                ]
+            },
+            "rules": {
+                "title": "REGLAMENTO",
+                "content": [
+                    "Con la inscripción en la plataforma 'Formulario y Declaración de Autorización' los equipos manifiestan que están de acuerdo con todos los términos de participación.",
+                    "Los trabajos o propuestas finales presentadas no podrán ser compartidos en ningún canal, red o medio de comunicación o exhibidos sin previa autorización de los organizadores del Festival.",
+                    "Ninguno de los participantes podrá divulgar información, contenido o la presentación que haya sometido al Festival. Esta información se considera confidencial y es parte de los organizadores del Festival.",
+                    "Todos los participantes autorizan a difundir sus nombres, imágenes y material inscrito sin límite de tiempo, espacio geográfico, ni medios, sin derecho a recibir compensación alguna en medios locales e internacionales.",
+                    "La propuesta ganadora será obsequiada a la dependencia publica o privada sin fines de lucro al que impacte la propuesta a fin de que puedan implementar la misma.",
+                    "Jurado puede descalificar por conducta inapropiada, tales como plagio, comportamiento no ético o profesional, y violación de las reglas del concurso.",
+                    "En caso de faltar a cualquiera de estas cláusulas o a las bases del concurso, el participante será descalificado de manera inmediata sin derecho a apelación."
+                ]
+            },
+            "faq": {
+                "title": "PREGUNTAS FRECUENTES",
+                "questions": [
+                    {
+                        "question": "¿Debo trabajar en una agencia o empresa para participar?",
+                        "answer": "No, solo debes ser estudiante o egresado, menor de 25 años de edad y residir en República Dominicana."
+                    },
+                    {
+                        "question": "¿Si trabajamos en grupo, todos debemos cumplir diferentes roles dentro de la propuesta? Ejemplo: 1 solo diseñador y 1 solo creativo",
+                        "answer": "No, los grupos pueden dividirse y estar conformados a su disposición. Independientemente de si son creativos, planners, diseñadores, copywritters, etc. Mientras se cumpla el brief, no hay límites."
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,296 @@
+{
+    "nav": {
+        "home": "HOME",
+        "winners": "WINNERS",
+        "news": "NEWS",
+        "inscriptions": "INSCRIPTIONS",
+        "students": "STUDENTS"
+    },
+    "home": {
+        "banner": {
+            "title": {
+                "first": "THE REGIONAL",
+                "second": "CREATIVITY AWARD",
+                "third": "",
+                "fourth": "FOR CENTRAL AMERICA AND THE CARIBBEAN"
+            },
+            "label": {
+                "first": "Inscriptions open",
+                "second": "until October 10th, 2024"
+            }
+        },
+        "infoSection": {
+            "title": "LA VARA IS",
+            "desciption": {
+                "first": "'La Vara' Awards, created in 2021 by the creative committee of ADECC - Dominican Association of Commercial Communication Companies, ",
+                "second": "aim to strengthen and elevate creativity in the region.",
+                "third": "The awards recognize all creative pieces in Central America and the Caribbean that stand out for their innovation and originality in favor of companies and brands."
+            }
+        },
+        "winnersSection": {
+            "title": {
+                "first": "WIN",
+                "second": "NERS"
+            }
+        },
+        "awardsSections": {
+            "title": "THE AWARDS",
+            "cases": "Cases"
+        },
+        "marketSection": {
+            "title": "Markets"
+        },
+        "sponsorsSection": {
+            "title": "SPONSORS"
+        },
+        "varaTalks": {
+            "title": "LA VARA TALKS",
+            "date": "NOVEMBER 26"
+        }
+    },
+    "judgesSection": {
+        "title": "JURIES"
+    },
+    "inscriptions": {
+        "banner": {
+            "title": "INSCRIPTIONS",
+            "closed": "close in",
+            "register": "REGISTER",
+            "cost": "COSTS"
+        },
+        "fases": {
+            "inscriptions": "INSCRIPTIONS",
+            "shortlist": "SHORTLIST",
+            "october": "OCTOBER",
+            "finalists": "FINALISTS"
+        },
+        "info": {
+            "title": "INSCRIPTIONS",
+            "list": {
+                "first": "The registration period begins on July 1 and ends on October 10, 2024, at 11:59 PM",
+                "bold": "No entries will be accepted after this date.",
+                "second": "Participants must upload each entry to the corresponding category.",
+                "third": "The brand or client must authorize entries.",
+                "fourth": "Each entry must be in digital format (image, video, audio) and meet the size and format requirements specified on the registration page.",
+                "fifth": "Entries must be original. (Participants will be responsible for any third-party claims.)"
+            }
+        },
+        "participants": {
+            "title": "WHO CAN PARTICIPATE?",
+            "text": {
+                "first": "Any commercial communication company that believes its work deserves recognition.",
+                "second": "Advertising agencies / Advertisers / Media outlets / Creative studios / Design / Production companies / Media agencies / Communication companies / Post-production / Digital agencies / Public relations firms / BTL promotion companies"
+            }
+        },
+        "categories": {
+            "title": "CATEGORIES",
+            "description": "DESCRIPTIONS AND SUB-CATEGORIES",
+            "items": {
+                "2": {
+                    "name": "Print",
+                    "info": "Awards the best ideas executed in newspapers, magazines, and inserts about a product or service. Ideas that generate impact through ingenuity, visual value, and effective writing are recognized."
+                },
+                "3": {
+                    "name": "Out of Home - OOH",
+                    "info": "Celebrates creativity \"out of home,\" in public spaces, to communicate a brand message and/or create experiences with the audience."
+                },
+                "5": {
+                    "name": "Brand Experience and Activations",
+                    "info": "Recognizes advertising and promotion ideas that involve displays, special constructions, live advertising, events, interactive experiences, and activations that engage the public."
+                },
+                "6": {
+                    "name": "TV and Video Content",
+                    "info": "Recognizes creative excellence in the production of audiovisual content, including commercials for TV, cinema, online platforms, and out-of-home experiences."
+                },
+                "7": {
+                    "name": "Radio and Audio Platforms",
+                    "info": "Celebrates audio creativity in conventional and digital media, including jingles, arrangements, and special effects. Successful radio and audio platform campaigns are awarded."
+                },
+                "8": {
+                    "name": "Media",
+                    "info": "Recognizes the clever and creative use of media, considering context and strategy. Includes categories like TV, audio, print, outdoor, events, digital platforms, and more."
+                },
+                "9": {
+                    "name": "Public Relations",
+                    "info": "Recognizes ideas that build trust and reputation through earned media tactics or owned channels. Includes PR strategies, crisis management, and social responsibility."
+                },
+                "10": {
+                    "name": "Data",
+                    "info": "Celebrates campaigns driven by creative use, interpretation, and application of data. They must clearly demonstrate how the execution/campaign was enhanced or driven by data."
+                },
+                "11": {
+                    "name": "Digital",
+                    "info": "Celebrates online creativity that connects with audiences through web resources and social media, including websites, banners, social networks, influencers, and more."
+                },
+                "13": {
+                    "name": "Innovation",
+                    "info": "Awards innovative ideas that solve problems or add value to brands and industries through technology or creative products."
+                },
+                "14": {
+                    "name": "360 Campaigns",
+                    "info": "Recognizes successful campaigns that carry a brand message across multiple online and offline platforms."
+                },
+                "15": {
+                    "name": "Craft",
+                    "info": "Recognizes executions that stand out for their level of detail and expertise in areas such as direction, photography, design, illustration, copywriting, music, and sound effects."
+                },
+                "16": {
+                    "name": "Health and Pharma",
+                    "info": "Recognizes the best ideas and actions in the health, pharmacy, and wellness sectors."
+                }
+            }
+        },
+        "accordions": {
+            "conditions": {
+                "title": "CONDITIONS",
+                "content": [
+                    "All commercial communication companies registered and operating in Central America and the Caribbean, as well as individuals residing in these regions who create advertising pieces or campaigns, can participate",
+                    "Entries must be authorized by the brand or client",
+                    "For individual entries, pieces must have written authorization from the responsible advertising agency or advertiser. The advertising agency will have priority over the independent advertiser in case of duplicate entries",
+                    "Information provided by participants must be real and honest; any falsification will result in automatic disqualification",
+                    "The competing material must have been published before the start of the festival",
+                    "Any material in a language other than Spanish must be translated or subtitled in Spanish.",
+                    {
+                        "subContent": [
+                            "Television-Cinema commercials must have a maximum duration of 5 minutes.",
+                            "The maximum allowed file size is 4GB.",
+                            "It is recommended to compress documents before uploading to streamline the application process.",
+                            "Accepted formats for images: JPG, JPEG, PNG, GIF, TIFF, TIF.",
+                            "Accepted formats for video: MP4.",
+                            "Accepted formats for documents: PDF, XML, DOC, XLSX, XLS.",
+                            "Accepted formats for audio: MP3."
+                        ]
+                    },
+                    "All entries will remain in the festival archive for its purposes and objectives.",
+                    "ADECC may use the material for promotional and dissemination purposes, presentations in educational institutions, business groups, communication professionals, and the general public, and will publish the awards in public and private media.",
+                    "Participants agree to use the correct designation of the award received in their promotions or advertising.",
+                    "By registering, participants can use brands, promotions, products, protagonists, animated characters, and photographic reproductions.",
+                    "Participants exclude ADECC and Premios La Vara from any legal action or claim arising from the promotion, exhibition, and/or use of their material, assuming any resulting responsibility.",
+                    "If the organization requires proof of copyright or publication, it will be requested from the involved parties to continue the jury process.",
+                    "The judging panel reserves the right not to select winners if deemed appropriate",
+                    "Participants acknowledge and accept the conditions and requirements of the Premios La Vara rules.",
+                    "The material entered must comply with the rules and ethics codes set out in this document by the qualifying bodies of the activity",
+                    "ADECC reserves the right to admission and the application of the established ethics codes",
+                    "If there is a substantiated complaint from a third party regarding any entry, ADECC will require a response from the responsible party. Until the situation is clarified, participation or awards will be suspended.",
+                    "Registration in the Premios La Vara implies acceptance of these rules and the authority of the organizers to validate compliance.",
+                    "Note: Any material entered that has not been published, commonly known as 'ghost' or 'trucho,' will be automatically disqualified along with all entries from the responsible party, without economic reimbursement."
+                ]
+            },
+            "jurors": {
+                "title": "JUDGES",
+                "content": [
+                    "The judging panel will consist of international industry leaders with extensive experience and criteria",
+                    "It will include prestigious international creative professionals who are active and successful in advertising agencies.",
+                    "Judges from both network and independent agencies, with high profiles in the industry and recognized by their awards, mainly Cannes Lions, will participate",
+                    "The jury will be proposed and selected by ADECC’s Board of Directors and the creative committee.",
+                    "No professionals residing permanently in the countries included in the award (Central America and the Caribbean) will be invited as judges.",
+                    "The jury may subdivide or combine categories based on the number of participants",
+                    "The jury may make suggestions and recommendations to the organizers to contribute to the advertising industry and its creativity"
+                ]
+            },
+            "credits": {
+                "title": "CREDITS",
+                "content": [
+                    "For relevant purposes, all agency, client, and individual names must be correctly cited in the credit form according to company policy and as they should appear in any communication from the Premios La Vara and all advertising formats.",
+                    "The following must be cited:",
+                    {
+                        "subContent": [
+                            "Lead Agency: The agency/company responsible for the key components of the effort (creativity, execution)",
+                            "Client: The client company. When relevant, the client’s name should be the global client company, which may differ from the brand.",
+                            "Additional Lead Agency (if applicable, maximum 1): An agency that contributed integrally to the success of the effort.",
+                            "Additional Client (if applicable, maximum 1): A second client in the effort.",
+                            "Contributing Companies (if applicable, maximum 4): Companies that significantly contributed to the success of the effort.",
+                            "Individual Credits: Primary and secondary individuals who contributed to the case. Credit all key members of the key client and agency team, ensuring correct spelling and confirmation of their positions."
+                        ]
+                    },
+                    "Only one individual per line should be credited, and all must be team members (current or former) of the accredited companies. No additional companies should be credited in this section."
+                ]
+            }
+        }
+    },
+    "students": {
+        "banner": {
+            "title": "STUDENT INSCRIPTIONS",
+            "closed": "close in",
+            "register": "REGISTER",
+            "brief": "BRIEF"
+        },
+        "fases": {
+            "inscriptions": "INSCRIPTIONS",
+            "shortlist": "SHORTLIST",
+            "october": "OCTOBER",
+            "finalists": "FINALISTS"
+        },
+        "info": {
+            "title": "ABOUT THE CATEGORY",
+            "text": "The Student category rewards innovative and original proposals created by young talents in the field of creativity. This category is open to students residing in the Dominican Republic, aged between 18 and 25, who can participate individually or in groups of up to 4 people. Participants must present a proposal that directly responds to the corresponding student brief of the year."
+        },
+        "winners": {
+            "title": "WINNERS",
+            "text": "The first, second, and third place winners will be awarded. The first-place proposal will receive special recognition on an international creative platform and the opportunity to impact a local public entity."
+        },
+        "expenses": {
+            "title": "COST",
+            "dates": {
+                "since": "From",
+                "sinceBold": "July 1st",
+                "until": "until",
+                "untilBold": "October 10th"
+            }
+        },
+        "accordions": {
+            "participantsRequirements": {
+                "title": "REQUIREMENTS FOR PARTICIPANTS",
+                "content": [
+                    "Participation can be individual or in groups of up to 4 people.",
+                    "Registration cost is USD $50.",
+                    "Only one (1) entry per contestant or group is allowed.",
+                    "Participants must be between 18 to 25 years old (inclusive) and reside in the Dominican Republic",
+                    "Participants must be students or graduates in Communication, Advertising, and related fields.",
+                    "Employment at a company or advertising agency is NOT required to participate."
+                ]
+            },
+            "proposalRequirements": {
+                "title": "PROPOSAL REQUIREMENTS",
+                "content": [
+                    "Registration on the Festival’s website: <a href='https://www.adecc.com.do/premioslavara' target='_blank' rel='noreferrer'>Registration.</a>",
+                    "Submission deadline: October 10, 2024.",
+                    "Include the message 'SD, I LOVE YOU CLEAN.'",
+                    "A mandatory video explaining the campaign, from the insight, “Big Idea,” and conceptualization (maximum 3 minutes, format .mp4)",
+                    "Optional:",
+                    {
+                        "optional": [
+                            "Artwork/Images: up to 3",
+                            "Audio: 1 audio (maximum 2 minutes, format .mp3)."
+                        ]
+                    }
+                ]
+            },
+            "rules": {
+                "title": "RULES",
+                "content": [
+                    "By registering on the platform “Authorization Form and Declaration,” teams agree to all terms of participation.",
+                    "The final works or proposals submitted cannot be shared on any channel, network, or medium without prior authorization from the Festival organizers.",
+                    "None of the participants may disclose the information, content, or presentation they have submitted to the Festival. This information is considered confidential and is the property of the Festival organizers.",
+                    "All participants authorize the dissemination of their names, images, and registered material without time, geographic space, or media restrictions, without any right to compensation in local and international media",
+                    "The winning proposal will be donated to the public or private non-profit entity impacted by the proposal for them to implement it.",
+                    "Judges can disqualify participants for inappropriate behavior, such as plagiarism, unethical or unprofessional conduct, and violation of contest rules.",
+                    "Failure to comply with any of these clauses or contest rules will result in immediate disqualification without the right to appeal."
+                ]
+            },
+            "faq": {
+                "title": "FREQUENTLY ASKED QUESTIONS",
+                "questions": [
+                    {
+                        "question": "Do I need to work at an agency or company to participate?",
+                        "answer": "No, you only need to be a student or graduate, under 25 years old, and reside in the Dominican Republic."
+                    },
+                    {
+                        "question": "If we work in a group, do we all need to fulfill different roles within the proposal?",
+                        "answer": "No, groups can be organized and composed as you see fit. Regardless of whether they are creatives, planners, designers, copywriters, etc., as long as the brief is fulfilled, there are no limits."
+                    }
+                ]
+            }
+        }
+    }
+}

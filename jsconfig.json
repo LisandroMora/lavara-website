@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "./",
+    "paths": {
+      /* global path */
+      "@layouts/*": ["src/layouts/*"],
+      "@helpers/*": ["src/helpers/*"],
+      "@styles/*": ["src/styles/*"],
+      /* blog path */
+      "@blogComponents/*": ["src/blog/components/*"],
+      "@blogUtils/*": ["src/blog/utils/*"],
+      "@blogLayout/*": ["src/blog/layouts/*"],
+      "@blogServices/*": ["src/blog/services/*"],
+      "@blogHooks/*": ["src/blog/hooks/*"],
+      "@blogContexts/*": ["src/blog/context/*"],
+      /* web path */
+      "@components/*": ["src/web/components/*"],
+      "@utils/*": ["src/web/utils/*"],
+      "@layout/*": ["src/web/layouts/*"],
+      "@services/*": ["src/web/services/*"],
+      "@libs/*": ["src/web/libs/*"],
+      "@hooks/*": ["src/web/hooks/*"],
+      "@contexts/*": ["src/web/contexts/*"],
+      "@pages/*": ["src/web/pages/*"],
+      /* dashboard paths */
+      "@dashboard/*": ["src/apps/dashboard/*"],
+    }
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
